@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config>
+    <modules>
+        <MindArc_Core>
+            <version>1.0.0</version>
+        </MindArc_Core>
+    </modules>
+    <global>
+        <models>
+            <core>
+                <rewrite>
+                    <!-- Model -->
+                    <design_package>MindArc_Core_Model_Design_Package</design_package>
+                </rewrite>
+            </core>
+        </models>
+    </global>
+</config>
